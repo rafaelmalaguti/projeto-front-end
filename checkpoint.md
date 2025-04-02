@@ -1,0 +1,2 @@
+Git:
+Git é um sistema de controle de versão distribuído, utilizado para gerenciar o histórico de alterações em projetos de software. Ele permite que múltiplos desenvolvedores colaborem em um mesmo código, mantendo o controle sobre diferentes versões. Com o Git, é possível criar ramificações (branches) e mesclá-las (merge) de maneira eficiente. Ele armazena todas as alterações de forma local, sem depender de um servidor central. É amplamente utilizado em projetos de código aberto e privados, com integração em plataformas como GitHub e GitLab.
